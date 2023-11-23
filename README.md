@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ricky (Ruei-Ci Wang), based in Taiwan.</h1>
-<h3 align="center">I am a Quantitative Trader, specializing in the development of algorithms related to Reinforcement Learning and Heuristic Search.</h3>
+<h1 align="center">Hi 👋, I'm Ricky</h1>
+<h3 align="center">I am a Quantitative Trader<br/> specializing in the development of algorithms <br/>related to Reinforcement Learning and Heuristic Search since 2010.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatfingererr&label=Profile%20views&color=0e75b6&style=flat" alt="fatfingererr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatfingererr" alt="fatfingererr" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/fatfingererr" target="blank"><img src="https://img.shields.io/twitter/follow/fatfingererr?logo=twitter&style=for-the-badge" alt="fatfingererr" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
